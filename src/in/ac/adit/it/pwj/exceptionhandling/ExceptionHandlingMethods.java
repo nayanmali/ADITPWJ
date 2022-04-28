@@ -4,7 +4,7 @@ public class ExceptionHandlingMethods {
 	public static void main(String[] args) {
 		DemoExample demoExample = new DemoExample();
 		demoExample.getMessageDemo();
-		demoExample.toStringDemo();;
+		demoExample.toStringDemo();
 		demoExample.printStackTraceDemo();
 	}
 }
